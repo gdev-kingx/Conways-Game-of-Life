@@ -16,5 +16,3 @@ A replica of the original **Conway's Game of Life** Game
 ---
 
 ![image](Output.png)
-
-![video](Output.mp4)
